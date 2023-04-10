@@ -1,0 +1,18 @@
+[submodule "gapic-generator-java"]
+	path = gapic-generator-java
+	url = https://github.com/mpeddada1/gapic-generator-java.git
+[submodule "java-shared-config"]
+	path = java-shared-config
+	url = https://github.com/mpeddada1/java-shared-config.git
+[submodule "java-pubsub"]
+	path = java-pubsub
+	url = https://github.com/mpeddada1/java-pubsub.git
+[submodule "java-bigquery"]
+	path = java-bigquery
+	url = https://github.com/mpeddada1/java-bigquery.git
+[submodule "java-bigtable"]
+	path = java-bigtable
+	url = https://github.com/mpeddada1/java-bigtable.git
+[submodule "java-spanner-jdbc"]
+	path = java-spanner-jdbc
+	url = https://github.com/mpeddada1/java-spanner-jdbc.git
