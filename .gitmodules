@@ -16,3 +16,6 @@
 [submodule "java-spanner-jdbc"]
 	path = java-spanner-jdbc
 	url = https://github.com/mpeddada1/java-spanner-jdbc.git
+[submodule "google-cloud-java"]
+	path = google-cloud-java
+	url = https://github.com/mpeddada1/google-cloud-java.git
